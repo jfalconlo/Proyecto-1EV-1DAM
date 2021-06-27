@@ -1,0 +1,2 @@
+Recomiendo poner la codificación en UTF-8 que es como la tengo en eclipse la tengo asín dado a que es una codificación más extendida que la que trae eclipse
+y esto hacía que en algunos editores se me desconfigurara el código.
